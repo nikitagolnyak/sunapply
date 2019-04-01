@@ -1,0 +1,8 @@
+.bg-gradient {
+    background: linear-gradient(to bottom, rgba(181, 181, 181, 0.96), rgba(137, 135, 134, 0.99));
+}
+
+.bg-im {
+    background-size: contain;
+    background: url(../imagies/55.jpg) 100% 100% no-repeat;
+}
