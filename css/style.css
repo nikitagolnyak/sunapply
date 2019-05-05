@@ -6,3 +6,7 @@
     background-size: contain;
     background: url(../imagies/55.jpg) 100% 100% no-repeat;
 }
+
+.body {
+    margin: 0px;
+}
